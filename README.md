@@ -4,6 +4,10 @@ cheap customizable spammer.
 requires keyboard and guizero
 
 
+Yeah, the windows will freeze while in use, that is fine don't close it.
+
+The only way to stop the script is to close the terminal window. (Just a warning)
+
 # Installation
 
 ## Windows/Arch Linux
