@@ -26,7 +26,7 @@ pip3 install guizero keyboard
 
 Linux users will need to install tk.
 
-### Installing tk
+### tk (For Linux users)
 
 #### Debian/Ubuntu
 
