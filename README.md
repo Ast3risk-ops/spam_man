@@ -1,21 +1,23 @@
 # spam_man
+
 cheap customizable spammer.
 
 requires keyboard and guizero
-
 
 Yeah, the windows will freeze while in use, that is fine don't close it.
 
 The only way to stop the script is to close the terminal window. (Just a warning)
 
-# Installation
+## Installation
 
-## Windows/Arch Linux
+### Windows/Arch Linux
 
 ```cmd
 pip install guizero keyboard
 ```
-## MacOS/Non-Arch Linux
+
+### MacOS/Non-Arch Linux
+
 ```bash
 pip3 install guizero keyboard
 ```
