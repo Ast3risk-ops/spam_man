@@ -10,13 +10,15 @@ The only way to stop the script is to close the terminal window. (Just a warning
 
 ## Installation
 
-### Windows/Arch Linux
+### Main dependencies
+
+#### Windows/Arch Linux
 
 ```cmd
 pip install guizero keyboard
 ```
 
-### MacOS/Non-Arch Linux
+#### MacOS/Non-Arch Linux
 
 ```bash
 pip3 install guizero keyboard
