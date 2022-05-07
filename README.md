@@ -8,7 +8,7 @@ Yeah, the main (gui) window will freeze while in use, that is fine don't close i
 
 The only way to stop the script is to close the terminal window. (Just a warning)
 
-to run it, get Python and clone the code. Run the .py file after installing dependencies.
+To run it, get Python and clone the code. Run the .py file after installing dependencies.
 
 ## Installation
 
