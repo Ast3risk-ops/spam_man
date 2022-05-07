@@ -14,7 +14,7 @@ To run it, get Python, then clone the code for this repo or click "Download ZIP"
 
 ### Main dependencies
 
-#### Windows/Arch Linux
+#### Windows/Arch Linux/Manjaro/Endeavor OS/Garuda Linux
 
 ```cmd
 pip install guizero keyboard
