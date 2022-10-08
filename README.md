@@ -26,7 +26,7 @@ pip install guizero keyboard
 pip3 install guizero keyboard
 ```
 
-Linux users will need to install tk.
+Linux users will need to install tk **AND** run the script as root (ex. `sudo python main.py`).
 
 ### tk (For Linux users)
 
